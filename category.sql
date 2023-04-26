@@ -1,0 +1,10 @@
+INSERT INTO category (category_id, category_name) VALUES (1, 'Masonry');
+INSERT INTO category (category_id, category_name) VALUES (2, 'Hard Tile & Stone');
+INSERT INTO category (category_id, category_name) VALUES (3, 'Structural & Misc Steel Erection');
+INSERT INTO category (category_id, category_name) VALUES (4, 'Overhead Doors');
+INSERT INTO category (category_id, category_name) VALUES (5, 'Asphalt Paving');
+INSERT INTO category (category_id, category_name) VALUES (6, 'Framing (Wood)');
+INSERT INTO category (category_id, category_name) VALUES (7, 'Epoxy Flooring');
+INSERT INTO category (category_id, category_name) VALUES (8, 'Framing (Wood)');
+INSERT INTO category (category_id, category_name) VALUES (9, 'Site Furnishings');
+INSERT INTO category (category_id, category_name) VALUES (10, 'Overhead Doors');
